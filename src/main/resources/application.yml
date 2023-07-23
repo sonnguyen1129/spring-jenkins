@@ -1,0 +1,4 @@
+server:
+  servlet:
+    context-path: /jenkins
+  port: 8888
